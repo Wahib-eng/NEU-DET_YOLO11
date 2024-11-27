@@ -34,10 +34,11 @@ rolled-in_scale:
 
 
 scratches: 
+
 ![scratches_125](https://github.com/user-attachments/assets/334a9012-aa9c-43f9-962b-ff45dd93a97d)
 ![scratches_124](https://github.com/user-attachments/assets/1030a37c-6ce5-44b4-93db-0fbf0f77dad0)
-you can even choose a specific calss and add a new roboflow project. and add the prefered class to your dataset for better performance. 
 
+you can even choose a specific calss and add a new roboflow project. and add the prefered class to your dataset for better performance. 
 
 # Dataset link 
 - http://faculty.neu.edu.cn/songkc/en/zdylm/263265/list/index.htm
