@@ -52,9 +52,9 @@ http://faculty.neu.edu.cn/songkc/en/zdylm/263265/list/index.htm
 
 # Roboflow:
 
-# Explore various algorithms and tailor them to your project:
-
-https://app.roboflow.com/intern-rd/defects-zbp75/1
+ Explore various algorithms and tailor them to your project:
+  
+  https://app.roboflow.com/intern-rd/defects-zbp75/1
 
 # Trained Model
 
