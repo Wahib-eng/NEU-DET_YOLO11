@@ -60,5 +60,5 @@ http://faculty.neu.edu.cn/songkc/en/zdylm/263265/list/index.htm
 
 The trained model is available upon request.
 You can contact me via email if you'd like to try it.
-
+abdulwareth119@gmail.com
 
