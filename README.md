@@ -1,7 +1,7 @@
 # NEU-DET_YOLO11
-In this project , I trained the NEU-DET dataset using yolo11 algorithm.
-I downloaded the dataset from an article which it has even annotations of the photos.
-After training the this dataset it gives a nice result to detect different types of detects on metal surfaces.  
+In this project , I trained the NEU-DET dataset using yolo11m algorithm.
+I downloaded the dataset from Nourth Eastern University website which it has even annotations of the photos so it saves alot of time.
+After training the dataset, it gives a nice result to detect different types of defects on surfaces.
 
 The data set has 6 classes, here are some examples for the results: 
 
@@ -42,7 +42,10 @@ you can even choose a specific calss and add a new roboflow project. and add the
 
 # Dataset link 
 - http://faculty.neu.edu.cn/songkc/en/zdylm/263265/list/index.htm
-- roboflow : you can choose the algorithm you want that is suitable for your project :
-https://app.roboflow.com/intern-rd/defects-zbp75/1
+- roboflow :
+   you can choose the algorithm you want that is suitable for your project :
+    https://app.roboflow.com/intern-rd/defects-zbp75/1
+
+  Trained model is avaiable with me. You can get the model throw email if you perfer to try it. 
 
 
